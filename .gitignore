@@ -1,5 +1,6 @@
 ## Taken from https://stackoverflow.com/questions/29404850/example-of-gitignore-file-for-java
 .qodo
+config.properties
 
 ##############################
 ## Java
