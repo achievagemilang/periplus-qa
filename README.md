@@ -4,6 +4,9 @@ This project contains Selenium + TestNG automated tests for the Periplus online 
 
 ---
 
+## Test Results
+![Test Results](assets/test-results.png)
+
 ## Prerequisites
 
 - Java JDK 8 or higher installed
