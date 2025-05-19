@@ -11,8 +11,7 @@ This project contains Selenium + TestNG automated tests for the Periplus online 
 - Chrome browser installed
 - ChromeDriver binary matching your Chrome version:
   - Download from: https://sites.google.com/chromium.org/driver/
-  - Ensure the `chromedriver` executable is in your system `PATH`, or specify its location via system properties when running tests
-  For Mac, I use Homebrew by running this command:
+  - Ensure the `chromedriver` executable is in your system `PATH`, or specify its location via system properties when running tests. For Mac, I use Homebrew by running this command:
   ```bash
   brew install chromedriver
   ```
